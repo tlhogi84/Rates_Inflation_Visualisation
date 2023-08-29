@@ -1,0 +1,56 @@
+,LOCATION,COUNTRY_NAME,Region,SIZE_tag
+1,ZAF,South Africa,South Africa,400
+2,IND,India,EM_Peer,100
+3,IDN,Indonesia,EM_Peer,100
+4,BRA,Brazil,EM_Peer,100
+5,MEX,Mexico,EM_Peer,100
+6,COL,Colombia,EM_Peer,100
+7,CHL,Chile,EM_Peer,100
+8,HUN,Hungary,EM_Peer,100
+9,USA,United States,United States,200
+10,GBR,United Kingdom,G7_ex US,50
+11,CAN,Canada,G7_ex US,50
+12,FRA,France,G7_ex US,50
+13,DEU,Germany,G7_ex US,50
+14,ITA,Italy,G7_ex US,50
+15,JPN,Japan,G7_ex US,50
+16,POL,Poland,DM_Other,50
+17,NZL,New Zealand,DM_Other,50
+18,KOR,South Korea,DM_Other,50
+19,NOR,Norway,DM_Other,50
+20,AUS,Australia,DM_Other,50
+21,ISR,Israel,DM_Other,50
+22,SWE,Sweden,DM_Europe,50
+23,DNK,Denmark,DM_Europe,50
+24,AUT,Austria,DM_Europe,50
+25,BEL,Belgium,DM_Europe,50
+26,ESP,Spain,DM_Europe,50
+27,FIN,Finland,DM_Europe,50
+28,LUX,Luxembourg,DM_Europe,50
+29,NLD,Netherlands,DM_Europe,50
+30,PRT,Portugal,DM_Europe,50
+31,CHE,Switzerland,DM_Europe,50
+32,CZE,Czech Republic,EM_Other,50
+33,BGR,Bulgaria,EM_Other,50
+34,SVN,Slovenia,EM_Other,50
+35,SVK,Slovak Republic,EM_Other,50
+36,LVA,Latvia,EM_Other,50
+37,LTU,Lithuania,EM_Other,50
+38,IRL,Ireland,EM_Other,50
+39,GRC,Greece,EM_Other,50
+40,ISL,Iceland,EM_Other,50
+41,EST,Estonia,EM_Other,50
+42,CHN,China,EM_Other,50
+43,CRI,Costa Rica,EM_Other,50
+44,TUR,Turkey,EM_Other,50
+45,SAU,Saudi Arabia,EM_Other,50
+46,RUS,Russia,EM_Other,50
+47,ROU,Romania,EM_Other,50
+48,HRV,Croatia,EM_Other,50
+49,ARG,Argentina,EM_Other,50
+50,G-7,N/A,N/A,0
+51,EA19,N/A,N/A,0
+52,G-20,N/A,N/A,0
+53,OECD,N/A,N/A,0
+54,OECDE,N/A,N/A,0
+55,EU27_2020,N/A,N/A,0
