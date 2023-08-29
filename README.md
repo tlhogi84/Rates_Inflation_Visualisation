@@ -7,7 +7,9 @@ This repository contains the resources related to the LinkedIn Article "Chronolo
 
 # Contents
 notebooks/: Jupyter notebooks with python code used for data wrangling and visualization.
+
 csv/      : csv files with source data
+
 README.md : This file, providing an overview of the project.
 
 # How to Use
